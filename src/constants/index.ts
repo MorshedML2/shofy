@@ -16,7 +16,7 @@ export const InfoNavigation = [
 export const banner = {
   _id: 1001,
   priceText: "Starting at $999.90",
-  title: "The best tablet Collection 2024",
+  title: "The best tablet Collection 2026",
   textOne: "Exclusive offer",
   offerPrice: "-30%",
   textTwo: "off this week",

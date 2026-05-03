@@ -8,7 +8,7 @@ import PurchaseWidget from "@/components/PurchaseWidget";
 import StateProvider from "@/components/auth/StateProvider";
 
 export const metadata: Metadata = {
-  title: "Shofy - Multipurpose eCommerce website",
+  title: "Maria eCommerce website",
   description: "Test application for education purpose",
 };
 

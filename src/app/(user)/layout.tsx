@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import Layout from "@/components/layout/Layout";
 
 export const metadata: Metadata = {
-  title: "Shofy - Multipurpose eCommerce website",
+  title: "Maria eCommerce website",
   description: "Test application for education purpose",
 };
 
